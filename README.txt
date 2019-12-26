@@ -1,3 +1,7 @@
+# Diversified Focus Testing
+
+License: GPLv3
+
 In the DFT folder you will find:
 
 - backend: it is the library.
